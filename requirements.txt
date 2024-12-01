@@ -1,0 +1,5 @@
+python-evtx
+xmltodict
+colorama
+tabulate
+random
